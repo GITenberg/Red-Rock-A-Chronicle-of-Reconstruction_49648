@@ -1,4 +1,5 @@
 _repo: Red-Rock-A-Chronicle-of-Reconstruction_49648
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Clinedinst, B. West (Benjamin West)
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '24800'
     url: http://www.gutenberg.org/2009/agents/24800
+covers:
+- cover_type: archival
+  image_path: 49648-h/images/cover.jpg
 creator:
   author:
     agent_name: Page, Thomas Nelson
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/184
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49648#Red-Rock-A-Chronicle-of-Reconstruction
 gutenberg_issued: '2015-08-07'
 gutenberg_type: Text
 identifiers:
